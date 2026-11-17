@@ -2,8 +2,14 @@ import nltk
 from nltk import pos_tag, word_tokenize
 
 
-def tag_with_nltk(text):
-    return pos_tag(word_tokenize(text))
+def nltk_pos_tag(text):
+    nltk.download('averaged_perceptron_tagger_eng', quiet=True)
+    nltk.download('punkt_tab', quiet=True)
+
+    tokens = nltk.word_tokenize(text)
+    tagged_words = nltk.pos_tag(tokens)
+
+    return tagged_words
 
 
 def pos_frequencies(tagged_tokens):
