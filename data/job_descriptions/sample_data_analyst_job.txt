@@ -1,0 +1,3 @@
+Junior Data Analyst
+
+We are looking for a motivated junior data analyst with skills in Python, SQL, Excel, data analysis and communication. The candidate should understand pandas, numpy, data visualization and Power BI. Knowledge of statistics, machine learning, problem solving and teamwork is a plus. The role includes cleaning datasets, preparing reports, building dashboards and communicating insights to business teams.

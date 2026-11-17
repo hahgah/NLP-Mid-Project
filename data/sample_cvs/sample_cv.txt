@@ -1,0 +1,15 @@
+Ayesha Khan
+Junior Data Analyst
+
+SUMMARY
+Computer Science graduate interested in data analysis and machine learning. Strong problem solving and communication skills.
+
+SKILLS
+Python, SQL, Excel, pandas, numpy, Power BI, data analysis, machine learning, data visualization, teamwork, Git and GitHub.
+
+PROJECTS
+Sales Dashboard: Cleaned sales data using Python and pandas. Created visual reports and dashboards.
+Student Performance Analysis: Used SQL and Excel to explore student records and communicate findings.
+
+EDUCATION
+Bachelor of Computer Science
